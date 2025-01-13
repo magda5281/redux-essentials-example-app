@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@mswjs/data": "^0.8.4",
+    "@mswjs/interceptors": "^0.37.5",
     "@reduxjs/toolkit": "^1.6.1",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -18,9 +19,10 @@
     "react-dom": "^17",
     "react-redux": "^7.2.4",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^4",
+    "react-scripts": "^5.0.1",
     "seedrandom": "^3.0.5",
-    "txtgen": "^2.2.4"
+    "txtgen": "^2.2.4",
+    "uuid": "^11.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
